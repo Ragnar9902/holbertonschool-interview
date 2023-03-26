@@ -1,0 +1,1 @@
+function that return a list of list that represent the pascal triangle
